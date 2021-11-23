@@ -1,12 +1,12 @@
 {
-  "name": "nestjs-redis",
+  "name": "@nur-portal/nestjs-redis",
   "version": "1.4.0",
   "description": "a NestJS ioRedis module",
   "author": "skunight",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skunight/nestjs-redis.git"
+    "url": "https://github.com/nur-portal/nestjs-redis.git"
   },
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.json",
