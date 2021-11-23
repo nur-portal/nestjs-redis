@@ -66,3 +66,6 @@ src/test
 logs/
 *.thrift
 *.sql
+
+package-lock.json
+yarn.lock
