@@ -6,14 +6,9 @@ Redis component for NestJs.
 
 ### Installation
 
-**Yarn**
-```bash
-yarn add nestjs-redis
-```
-
 **NPM**
 ```bash
-npm install nestjs-redis --save
+npm install @nur-portal/nestjs-redis --save
 ```
 
 ### Getting Started
