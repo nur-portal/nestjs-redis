@@ -1,6 +1,6 @@
 {
   "name": "@nur-portal/nestjs-redis",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "NestJS ioredis module",
   "author": "skunight",
   "license": "MIT",
