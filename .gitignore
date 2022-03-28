@@ -63,6 +63,7 @@ uploads/
 .gulp-cache
 src/test
 .vscode
+.idea
 logs/
 *.thrift
 *.sql
